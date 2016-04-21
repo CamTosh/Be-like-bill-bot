@@ -1,0 +1,1 @@
+# Le dossier où arrive les images crées via l'api 
